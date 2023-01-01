@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning C#, Java, just started Javascript, and hopefully will start C++ soon. 
 - 💞️ I’m looking to collaborate on professional processes.  I'm not sure if I am the only one but I kind of just draw up a UI then throw code at it. I'm pretty sure doing it wrong. 
 - 📫 How to reach me 
+-   Discord: Aventid#9853
+-   Reddit: u/Did_I_park_here
 
 <!---
 jaburro/jaburro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
